@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rosario Garcia ATS Resume</title>
+</head>
+<body>
+    <h1>Rosario Garcia</h1>
+    <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/rosario-g-10218119b/">https://www.linkedin.com/in/rosario-g-10218119b/</a></p>
+    <p><strong>Email:</strong> rosariog17170@gmail.com</p>
+    <p><strong>Phone:</strong> (929) 290-7645</p>
+
+    <h2>Profile Summary</h2>
+    <p>Recent college graduate passionate about technology and software development. Excited to learn new programming languages, explore tech trends, and solve challenging problems. Seeking opportunities in IT, game development, and software development to grow skills and work on innovative projects.</p>
+
+    <h2>Education</h2>
+    <p><strong>CITY TECH - CUNY (NYCCT)</strong><br>
+    Bachelor of Technology in Computer Technology/Computer Systems Technology<br>
+    Aug 2021 - Jun 2024</p>
+    <p><strong>CITY TECH - CUNY (NYCCT)</strong><br>
+    Associate in Applied Science in Computer Information Systems (AAS)<br>
+    Aug 2018 - Jan 2024</p>
+
+    <h2>Technical Skills</h2>
+    <ul>
+        <li>Programming Languages: Python, Java, C++, JavaScript, C#, HTML, CSS, XML, NoSQL</li>
+        <li>Web Development: HTML, CSS, JavaScript</li>
+        <li>Operating Systems: Windows, macOS, Linux</li>
+        <li>Software Development: Systems Analysis & Design, Game Development</li>
+        <li>Cybersecurity: Basic concepts and practices</li>
+        <li>Technical Support: Computer hardware troubleshooting, IT management</li>
+    </ul>
+
+    <h2>Non-Technical Skills</h2>
+    <ul>
+        <li>Project Management</li>
+        <li>Team Collaboration</li>
+        <li>Critical Thinking</li>
+        <li>Communication</li>
+        <li>Administrative Assistance</li>
+        <li>Attention to Detail</li>
+        <li>Organization</li>
+        <li>Customer Service</li>
+        <li>Time Management</li>
+        <li>Leadership</li>
+        <li>Multi-tasking</li>
+    </ul>
+
+    <h2>Professional Experience</h2>
+    <p><strong>Information Technology Intern</strong><br>
+    TYWLS of Brooklyn<br>
+    Mar 2023 - Mar 2024</p>
+    <ul>
+        <li>Provided technology support for staff and students, managing and troubleshooting software and hardware issues.</li>
+        <li>Led the organization and management of laptops and tablets in inventory.</li>
+        <li>Collaborated with supervisors to overcome challenges and secure additional laptops.</li>
+    </ul>
+
+    <p><strong>Retail Assistant</strong><br>
+    Palace Laundromat<br>
+    Jul 2022 - Jun 2023</p>
+    <ul>
+        <li>Delivered exceptional customer service, handling transactions accurately and maintaining financial records.</li>
+        <li>Fostered a welcoming environment for customers, demonstrating hospitality.</li>
+    </ul>
+
+    <p><strong>Researcher Intern</strong><br>
+    Remote Collegiate Science and Technology Entry Program (CSTEP)<br>
+    Jun 2021</p>
+    <ul>
+        <li>Evaluated complex technical concepts and potential applications, deriving meaningful conclusions.</li>
+        <li>Managed the development of a small AR program, organizing tasks and timelines.</li>
+    </ul>
+
+    <p><strong>Teacher Assistant</strong><br>
+    Saint Francis Pablo Church<br>
+    Dec 2016 - Mar 2017</p>
+    <ul>
+        <li>Assisted in delivering engaging lessons and facilitating group activities.</li>
+        <li>Contributed to classroom management and provided individualized support to students.</li>
+    </ul>
+
+    <p><strong>Administrative Assistant</strong><br>
+    TYWLS of Brooklyn<br>
+    Oct 2015 - Jun 2016</p>
+    <ul>
+        <li>Organized and handled documents, implementing efficient filing systems.</li>
+        <li>Created a well-organized office environment to enhance productivity.</li>
+    </ul>
+
+    <h2>Volunteer Experience</h2>
+    <p><strong>Community Service Volunteer</strong><br>
+    Trinity Human Services<br>
+    Aug 2019 - Aug 2023</p>
+    <ul>
+        <li>Established and maintained successful working relationships with local community resources.</li>
+    </ul>
+
+    <p><strong>Teacher Assistant</strong><br>
+    Saint Francis Pablo Church<br>
+    Mar 2017 - May 2018</p>
+    <ul>
+        <li>Developed and maintained positive relationships with children.</li>
+        <li>Helped to maintain a positive learning atmosphere in the classroom.</li>
+    </ul>
+</body>
+</html>
+
+
